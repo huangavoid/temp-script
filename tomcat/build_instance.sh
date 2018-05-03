@@ -2,7 +2,7 @@
 
 CURR_DIR=`dirname ${BASH_SOURCE}`
 CATALINA_HOME=/opt/apache-tomcat
-APP_DIR=/srv/java-webapps
+APP_DIR=/srv/tomcat-webapps
 
 for i in {1..3}
 do
